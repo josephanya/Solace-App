@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442821257305",
+    "firebase_url": "https://solace-5380d.firebaseio.com",
+    "project_id": "solace-5380d",
+    "storage_bucket": "solace-5380d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442821257305:android:6042c97a99ffe4e371a948",
+        "android_client_info": {
+          "package_name": "ng.lifebox.solace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442821257305-qmdndl4q9hmsob24rpedogb82litffuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kuM77LxKz_ClCdc_gCdetaZC-tk1QxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442821257305-qmdndl4q9hmsob24rpedogb82litffuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

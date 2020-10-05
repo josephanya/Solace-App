@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>442821257305-rjgn677f7c26g1cnl24hgco3pr36o79s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.442821257305-rjgn677f7c26g1cnl24hgco3pr36o79s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4ss-8rcKdfNlVvLxPCyUzE8yY4FA8ql8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>442821257305</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ng.lifebox.solace</string>
+	<key>PROJECT_ID</key>
+	<string>solace-5380d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>solace-5380d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:442821257305:ios:b6aca297889efbb771a948</string>
+	<key>DATABASE_URL</key>
+	<string>https://solace-5380d.firebaseio.com</string>
+</dict>
+</plist>
